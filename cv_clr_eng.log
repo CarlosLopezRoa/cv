@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99991 (TeX Live 2014) (preloaded format=xelatex 2014.10.16)  25 SEP 2015 18:01
+This is XeTeX, Version 3.14159265-2.6-0.99991 (TeX Live 2014) (preloaded format=xelatex 2014.10.16)  25 SEP 2015 18:05
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1274,35 +1274,31 @@ LaTeX Info: Redefining \nameref on input line 8.
 LaTeX Info: Redefining \sptext on input line 8.
 LaTeX Info: Redefining \. on input line 8.
 LaTeX Info: Redefining \% on input line 8.
+LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(1)/m/n' will be
+(Font)              scaled to size 10.00015pt on input line 35.
+LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(1)/m/n' will be
+(Font)              scaled to size 7.00006pt on input line 35.
+LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(1)/m/n' will be
+(Font)              scaled to size 5.00008pt on input line 35.
+LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 9.99985pt on input line 35.
+LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 6.99986pt on input line 35.
+LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 4.99992pt on input line 35.
 
-Overfull \hbox (18.20996pt too wide) in paragraph at lines 18--18
- [][]\EU1/HelveticaNeueLight(0)/m/n/10 carlos.lopez.roa@gmail.com[]
- []
-
-LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 10.00015pt on input line 34.
-LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 7.00006pt on input line 34.
-LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 5.00008pt on input line 34.
-LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 9.99985pt on input line 34.
-LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 6.99986pt on input line 34.
-LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 4.99992pt on input line 34.
 
 LaTeX Font Warning: Font shape `EU1/HelveticaNeueLight(0)/m/sc' undefined
 (Font)              using `EU1/HelveticaNeueLight(0)/m/n' instead on input line
- 34.
+ 35.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 56--99
+Underfull \hbox (badness 10000) in paragraph at lines 57--100
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 103--183
+Underfull \hbox (badness 10000) in paragraph at lines 104--184
 
  []
 
@@ -1313,15 +1309,15 @@ File: se-ascii-print.def 2011/12/02 v1.10 stringenc: Printable ASCII characters
 [1
 
 ] [2]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 274.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 274.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 275.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 275.
  (./cv_clr_eng.aux
 LaTeX Info: Redefining \sptext on input line 27.
 LaTeX Info: Redefining \. on input line 27.
 LaTeX Info: Redefining \% on input line 27.
 )
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 274.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 274.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 275.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 275.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
@@ -1333,7 +1329,7 @@ Package logreq Info: Writing requests to 'cv_clr_eng.run.xml'.
 Here is how much of TeX's memory you used:
  40578 strings out of 493734
  758108 string characters out of 6146347
- 1165648 words of memory out of 5000000
+ 1166648 words of memory out of 5000000
  43420 multiletter control sequences out of 15000+600000
  5366 words of font info for 64 fonts, out of 8000000 for 9000
  1328 hyphenation exceptions out of 8191
