@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99991 (TeX Live 2014) (preloaded format=xelatex 2014.10.16)  25 SEP 2015 17:50
+This is XeTeX, Version 3.14159265-2.6-0.99991 (TeX Live 2014) (preloaded format=xelatex 2014.10.16)  25 SEP 2015 17:57
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1297,12 +1297,12 @@ LaTeX Font Warning: Font shape `EU1/HelveticaNeueLight(0)/m/sc' undefined
  34.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 56--104
+Underfull \hbox (badness 10000) in paragraph at lines 56--99
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 108--188
+Underfull \hbox (badness 10000) in paragraph at lines 103--183
 
  []
 
@@ -1313,15 +1313,15 @@ File: se-ascii-print.def 2011/12/02 v1.10 stringenc: Printable ASCII characters
 [1
 
 ] [2]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 279.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 279.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 274.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 274.
  (./cv_clr_eng.aux
 LaTeX Info: Redefining \sptext on input line 27.
 LaTeX Info: Redefining \. on input line 27.
 LaTeX Info: Redefining \% on input line 27.
 )
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 279.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 279.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 274.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 274.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
