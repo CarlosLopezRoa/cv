@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99991 (TeX Live 2014) (preloaded format=xelatex 2014.10.16)  25 SEP 2015 18:05
+This is XeTeX, Version 3.14159265-2.6-0.99991 (TeX Live 2014) (preloaded format=xelatex 2014.10.16)  28 OCT 2015 19:43
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1329,7 +1329,7 @@ Package logreq Info: Writing requests to 'cv_clr_eng.run.xml'.
 Here is how much of TeX's memory you used:
  40578 strings out of 493734
  758108 string characters out of 6146347
- 1166648 words of memory out of 5000000
+ 1165648 words of memory out of 5000000
  43420 multiletter control sequences out of 15000+600000
  5366 words of font info for 64 fonts, out of 8000000 for 9000
  1328 hyphenation exceptions out of 8191
