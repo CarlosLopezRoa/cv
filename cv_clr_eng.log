@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015) (preloaded format=xelatex 2016.3.3)  3 NOV 2016 19:11
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015) (preloaded format=xelatex 2016.3.3)  5 NOV 2016 14:04
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -983,7 +983,7 @@ Package ifvtex Info: VTeX not detected.
 \Gm@layouthoffset=\dimen199
 \Gm@layoutvoffset=\dimen200
 \Gm@dimlist=\toks30
-))
+)
 (/usr/local/texlive/2015/texmf-dist/tex/latex/hyperref/hyperref.sty
 Package: hyperref 2012/11/06 v6.83m Hypertext links for LaTeX
 
@@ -1096,113 +1096,156 @@ tly
 )
 \Hy@SectionHShift=\skip63
 )
-(/usr/local/texlive/2015/texmf-dist/tex/generic/babel/babel.sty
-Package: babel 2014/09/25 3.9l The Babel package
+(/usr/local/texlive/2015/texmf-dist/tex/latex/tools/array.sty
+Package: array 2014/10/28 v2.4c Tabular extension package (FMi)
+\col@sep=\dimen205
+\extrarowheight=\dimen206
+\NC@list=\toks31
+\extratabsurround=\skip64
+\backup@length=\skip65
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2011/09/28 v3.5.2 Customized lists
+\labelindent=\skip66
+\enit@outerparindent=\dimen207
+\enit@toks=\toks32
+\enit@inbox=\box55
+\enitdp@description=\count311
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/ms/ragged2e.sty
+Package: ragged2e 2009/05/21 v2.1 ragged2e Package (MS)
 
-(/usr/local/texlive/2015/texmf-dist/tex/generic/babel-spanish/spanish.ldf
-Language: spanish.ldf 2014/04/24 v5.0n Spanish support from the babel system
+(/usr/local/texlive/2015/texmf-dist/tex/latex/ms/everysel.sty
+Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
+)
+\CenteringLeftskip=\skip67
+\RaggedLeftLeftskip=\skip68
+\RaggedRightLeftskip=\skip69
+\CenteringRightskip=\skip70
+\RaggedLeftRightskip=\skip71
+\RaggedRightRightskip=\skip72
+\CenteringParfillskip=\skip73
+\RaggedLeftParfillskip=\skip74
+\RaggedRightParfillskip=\skip75
+\JustifyingParfillskip=\skip76
+\CenteringParindent=\skip77
+\RaggedLeftParindent=\skip78
+\RaggedRightParindent=\skip79
+\JustifyingParindent=\skip80
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+\fancy@headwidth=\skip81
+\f@ncyO@elh=\skip82
+\f@ncyO@erh=\skip83
+\f@ncyO@olh=\skip84
+\f@ncyO@orh=\skip85
+\f@ncyO@elf=\skip86
+\f@ncyO@erf=\skip87
+\f@ncyO@olf=\skip88
+\f@ncyO@orf=\skip89
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/xifthen/xifthen.sty
+Package: xifthen 2009/04/17 v1.3 Extended ifthen features
 
-(/usr/local/texlive/2015/texmf-dist/tex/generic/babel/babel.def
-File: babel.def 2014/09/25 3.9l Babel common definitions
-\babel@savecnt=\count311
-\U@D=\dimen205
-
-(/usr/local/texlive/2015/texmf-dist/tex/generic/babel/xebabel.def))
-\es@quottoks=\toks31
-\es@quotdepth=\count312
-Package babel Info: Making " an active character on input line 516.
-Package babel Info: Making . an active character on input line 617.
-Package babel Info: Making < an active character on input line 662.
-Package babel Info: Making > an active character on input line 662.
+(/usr/local/texlive/2015/texmf-dist/tex/latex/etex-pkg/etex.sty
+Package: etex 2015/03/02 v2.1 eTeX basic definition package (PEB,DPC)
+\et@xins=\count312
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
+Normal \count register pool exhausted, switching to extended pool.
+\calc@Acount=\count277
+\calc@Bcount=\count278
+\calc@Adimen=\dimen208
+\calc@Bdimen=\dimen209
+\calc@Askip=\skip90
+\calc@Bskip=\skip91
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count279
+\calc@Cskip=\skip92
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/ifmtarg/ifmtarg.sty
+Package: ifmtarg 2009/09/02 v1.2a check for an empty argument
 ))
-(/usr/local/texlive/2015/texmf-dist/tex/latex/base/inputenc.sty
-Package: inputenc 2015/03/17 v1.2c Input encoding file
-\inpenc@prehook=\toks32
-\inpenc@posthook=\toks33
-
-
-Package inputenc Warning: inputenc package ignored with utf8 based engines.
-
+(/usr/local/texlive/2015/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
 )
-Package biblatex Info: Trying to load language 'spanish'...
-Package biblatex Info: ... file 'spanish.lbx' found.
- (/usr/local/texlive/2015/texmf-dist/tex/latex/biblatex/lbx/spanish.lbx
-File: spanish.lbx 2015/04/19 v3.0 biblatex localization (PK/JW/AB)
-)
+(./fontawesome.sty
+Package: fontawesome 2015/11/04 v4.4.0 font awesome icons
+\g__fontspec_family_FontAwesome_int=\count280
+))
+Package biblatex Info: Trying to load language 'english'...
+Package biblatex Info: ... file 'english.lbx' found.
 
-Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
-(biblatex)                Loading 'csquotes' recommended.
-
-\@quotelevel=\count313
-\@quotereset=\count314
-(./cv_clr_eng.aux
-LaTeX Info: Redefining \sptext on input line 27.
-LaTeX Info: Redefining \. on input line 27.
-LaTeX Info: Redefining \% on input line 27.
+(/usr/local/texlive/2015/texmf-dist/tex/latex/biblatex/lbx/english.lbx
+File: english.lbx 2015/04/19 v3.0 biblatex localization (PK/JW/AB)
 )
+\@quotelevel=\count281
+\@quotereset=\count282
+
+(./cv_clr_eng.aux)
 \openout1 = `cv_clr_eng.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for EU1/lmr/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 7.
-LaTeX Font Info:    Try loading font information for T3+cmr on input line 7.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for EU1/lmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 14.
+LaTeX Font Info:    Try loading font information for T3+cmr on input line 14.
  (/usr/local/texlive/2015/texmf-dist/tex/latex/tipa/t3cmr.fd
 File: t3cmr.fd 2001/12/31 TIPA font definitions
 )
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-*** you should *not* be loading the inputenc package
-*** XeTeX expects the source to be in UTF8 encoding
-*** some features of other encodings may conflict, resulting in poor output.
-\g__fontspec_family_latinmodern-math.otf_int=\count315
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+\g__fontspec_family_latinmodern-math.otf_int=\count283
 LaTeX Font Info:    Encoding `OT1' has changed to `EU1' for symbol font
-(Font)              `operators' in the math version `normal' on input line 7.
+(Font)              `operators' in the math version `normal' on input line 14.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/cmr/m/n --> EU1/latinmodern-math.otf(0)/m/n on inpu
-t line 7.
+t line 14.
 LaTeX Font Info:    Encoding `OT1' has changed to `EU1' for symbol font
-(Font)              `operators' in the math version `bold' on input line 7.
+(Font)              `operators' in the math version `bold' on input line 14.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  OT1/cmr/bx/n --> EU1/latinmodern-math.otf(0)/bx/n on in
-put line 7.
+put line 14.
 LaTeX Font Info:    Encoding `OMS' has changed to `EU1' for symbol font
-(Font)              `symbols' in the math version `normal' on input line 7.
+(Font)              `symbols' in the math version `normal' on input line 14.
 LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
 (Font)                  OMS/cmsy/m/n --> EU1/latinmodern-math.otf(1)/m/n on inp
-ut line 7.
+ut line 14.
 LaTeX Font Info:    Encoding `OMS' has changed to `EU1' for symbol font
-(Font)              `symbols' in the math version `bold' on input line 7.
+(Font)              `symbols' in the math version `bold' on input line 14.
 LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
 (Font)                  OMS/cmsy/b/n --> EU1/latinmodern-math.otf(1)/bx/n on in
-put line 7.
+put line 14.
 LaTeX Font Info:    Encoding `OMX' has changed to `EU1' for symbol font
-(Font)              `largesymbols' in the math version `normal' on input line 7
-.
+(Font)              `largesymbols' in the math version `normal' on input line 1
+4.
 LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
 (Font)                  OMX/cmex/m/n --> EU1/latinmodern-math.otf(2)/m/n on inp
-ut line 7.
+ut line 14.
 LaTeX Font Info:    Encoding `OMX' has changed to `EU1' for symbol font
-(Font)              `largesymbols' in the math version `bold' on input line 7.
+(Font)              `largesymbols' in the math version `bold' on input line 14.
+
 LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
 (Font)                  OMX/cmex/m/n --> EU1/latinmodern-math.otf(2)/bx/n on in
-put line 7.
+put line 14.
 ABD: EveryShipout initializing macros
 Package biblatex Info: XeTeX detected.
 (biblatex)             Assuming input encoding 'utf8'.
@@ -1214,8 +1257,8 @@ Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'cv_clr_eng.bbl' not found.
 
 No file cv_clr_eng.bbl.
-Package biblatex Info: Reference section=0 on input line 7.
-Package biblatex Info: Reference segment=0 on input line 7.
+Package biblatex Info: Reference section=0 on input line 14.
+Package biblatex Info: Reference segment=0 on input line 14.
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
 *geometry* verbose mode - [ preamble ] result:
@@ -1250,52 +1293,51 @@ Package biblatex Info: Reference segment=0 on input line 7.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-\AtBeginShipoutBox=\box55
-Package hyperref Info: Link coloring OFF on input line 7.
+\AtBeginShipoutBox=\box56
+Package hyperref Info: Link coloring OFF on input line 14.
 (/usr/local/texlive/2015/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 
 (/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
-\c@section@level=\count316
+\c@section@level=\count284
 )
-LaTeX Info: Redefining \ref on input line 7.
-LaTeX Info: Redefining \pageref on input line 7.
-LaTeX Info: Redefining \nameref on input line 7.
+LaTeX Info: Redefining \ref on input line 14.
+LaTeX Info: Redefining \pageref on input line 14.
+LaTeX Info: Redefining \nameref on input line 14.
 
 (./cv_clr_eng.out) (./cv_clr_eng.out)
 \@outlinefile=\write5
 \openout5 = `cv_clr_eng.out'.
 
-LaTeX Info: Redefining \sptext on input line 7.
-LaTeX Info: Redefining \. on input line 7.
-LaTeX Info: Redefining \% on input line 7.
+ ABD: EverySelectfont initializing macros
+LaTeX Info: Redefining \selectfont on input line 14.
 LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 10.00015pt on input line 34.
+(Font)              scaled to size 10.00015pt on input line 42.
 LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 7.00006pt on input line 34.
+(Font)              scaled to size 7.00006pt on input line 42.
 LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 5.00008pt on input line 34.
+(Font)              scaled to size 5.00008pt on input line 42.
 LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 9.99985pt on input line 34.
+(Font)              scaled to size 9.99985pt on input line 42.
 LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 6.99986pt on input line 34.
+(Font)              scaled to size 6.99986pt on input line 42.
 LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 4.99992pt on input line 34.
+(Font)              scaled to size 4.99992pt on input line 42.
 
 
 LaTeX Font Warning: Font shape `EU1/HelveticaNeueLight(0)/m/sc' undefined
 (Font)              using `EU1/HelveticaNeueLight(0)/m/n' instead on input line
- 38.
+ 46.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 72--97
+Underfull \hbox (badness 10000) in paragraph at lines 80--105
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 101--157
+Underfull \hbox (badness 10000) in paragraph at lines 109--165
 
  []
 
@@ -1305,16 +1347,25 @@ File: se-ascii-print.def 2011/12/02 v1.10 stringenc: Printable ASCII characters
 )
 [1
 
-] [2]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 224.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 224.
- (./cv_clr_eng.aux
-LaTeX Info: Redefining \sptext on input line 27.
-LaTeX Info: Redefining \. on input line 27.
-LaTeX Info: Redefining \% on input line 27.
-)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 224.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 224.
+]
+Overfull \hbox (0.13013pt too wide) in paragraph at lines 207--208
+[]\EU1/HelveticaNeueLight(0)/m/n/10 Mathematics Summer School in Querétaro, Cen
+ter for Innovation in Mathematics, Queré-
+ []
+
+
+Overfull \hbox (10.51878pt too wide) in paragraph at lines 225--226
+[]\EU1/HelveticaNeueLight(0)/m/n/10 López-Roa, C., Vargas, A.: \EU1/HelveticaNe
+ueLight(0)/m/it/10 Control robusto de biorreactores basado en modos deslizantes
+.
+ []
+
+[2]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 235.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 235.
+ (./cv_clr_eng.aux)
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 235.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 235.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
@@ -1324,12 +1375,12 @@ Package logreq Info: Writing requests to 'cv_clr_eng.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 41257 strings out of 493706
- 775451 string characters out of 6145770
- 1207104 words of memory out of 5000000
- 44116 multiletter control sequences out of 15000+600000
- 5423 words of font info for 64 fonts, out of 8000000 for 9000
+ 42737 strings out of 493706
+ 797330 string characters out of 6145770
+ 1232403 words of memory out of 5000000
+ 45568 multiletter control sequences out of 15000+600000
+ 5439 words of font info for 66 fonts, out of 8000000 for 9000
  1328 hyphenation exceptions out of 8191
- 73i,9n,67p,10457b,1596s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 73i,9n,67p,10430b,664s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on cv_clr_eng.pdf (2 pages).
