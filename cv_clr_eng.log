@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015) (preloaded format=xelatex 2016.3.3)  11 JUN 2017 00:25
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015) (preloaded format=xelatex 2016.3.3)  30 JUN 2017 10:24
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1314,17 +1314,17 @@ LaTeX Info: Redefining \nameref on input line 14.
  ABD: EverySelectfont initializing macros
 LaTeX Info: Redefining \selectfont on input line 14.
 LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 10.00015pt on input line 43.
+(Font)              scaled to size 10.00015pt on input line 40.
 LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 7.00006pt on input line 43.
+(Font)              scaled to size 7.00006pt on input line 40.
 LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 5.00008pt on input line 43.
+(Font)              scaled to size 5.00008pt on input line 40.
 LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 9.99985pt on input line 43.
+(Font)              scaled to size 9.99985pt on input line 40.
 LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 6.99986pt on input line 43.
+(Font)              scaled to size 6.99986pt on input line 40.
 LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 4.99992pt on input line 43.
+(Font)              scaled to size 4.99992pt on input line 40.
 
 
 LaTeX Font Warning: Font shape `EU1/HelveticaNeueLight(0)/m/sc' undefined
@@ -1377,7 +1377,7 @@ Package logreq Info: Writing requests to 'cv_clr_eng.run.xml'.
 Here is how much of TeX's memory you used:
  42737 strings out of 493706
  797330 string characters out of 6145770
- 1233402 words of memory out of 5000000
+ 1233404 words of memory out of 5000000
  45568 multiletter control sequences out of 15000+600000
  5439 words of font info for 66 fonts, out of 8000000 for 9000
  1328 hyphenation exceptions out of 8191
